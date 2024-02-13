@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "slyle.css",
+	"sources": [
+		"../sass/slyle.sass"
+	],
+	"sourcesContent": [
+		""
+	],
+	"names": [],
+	"mappings": ""
+}
